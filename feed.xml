@@ -3,12 +3,35 @@
     <title>Labors Voice</title>
     <link href="https://laborsvoice.org/feed.xml" rel="self" />
     <link href="https://laborsvoice.org" />
-    <updated>2021-10-04T03:20:05-05:00</updated>
+    <updated>2021-10-04T04:02:19-05:00</updated>
     <author>
         <name>seth</name>
     </author>
     <id>https://laborsvoice.org</id>
 
+    <entry>
+        <title>Top 5, to Counter the Lies</title>
+        <author>
+            <name>seth</name>
+        </author>
+        <link href="https://laborsvoice.org/top-5-to-counter-the-lies.html"/>
+        <id>https://laborsvoice.org/top-5-to-counter-the-lies.html</id>
+
+        <updated>2021-10-04T04:02:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><div class="amplenote-embed" data-note-token="3z1ZXPcUC7zNAiMdNfVV8GHN">
+  <div class="post__iframe"><iframe loading="lazy" frameborder="0" src="https://public.amplenote.com/embed/3z1ZXPcUC7zNAiMdNfVV8GHN?hostname=laborsvoice.org"></iframe></div>
+</div>
+<script defer src="https://public.amplenote.com/embed.js"></script></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>
