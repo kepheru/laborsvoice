@@ -3,12 +3,28 @@
     <title>Labors Voice</title>
     <link href="https://laborsvoice.org/feed.xml" rel="self" />
     <link href="https://laborsvoice.org" />
-    <updated>2021-10-04T08:46:38-05:00</updated>
+    <updated>2021-10-04T09:23:17-05:00</updated>
     <author>
         <name>seth</name>
     </author>
     <id>https://laborsvoice.org</id>
 
+    <entry>
+        <title>Contract Cheat Sheet</title>
+        <author>
+            <name>seth</name>
+        </author>
+        <link href="https://laborsvoice.org/contract-cheat-sheet.html"/>
+        <id>https://laborsvoice.org/contract-cheat-sheet.html</id>
+
+        <updated>2021-10-04T09:23:17-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://laborsvoice.org/media/posts/5/Contract-Cheat-Sheet.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-xs.png 300w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-sm.png 480w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-md.png 768w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-lg.png 1024w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-xl.png 1360w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-2xl.png 1600w"  alt="Contract Cheat Sheet" width="1442" height="2048"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top 5, to Counter the Lies</title>
         <author>

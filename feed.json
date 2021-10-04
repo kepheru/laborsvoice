@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://laborsvoice.org/contract-cheat-sheet.html",
+            "url": "https://laborsvoice.org/contract-cheat-sheet.html",
+            "title": "Contract Cheat Sheet",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://laborsvoice.org/media/posts/5/Contract-Cheat-Sheet.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-xs.png 300w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-sm.png 480w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-md.png 768w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-lg.png 1024w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-xl.png 1360w ,https://laborsvoice.org/media/posts/5/responsive/Contract-Cheat-Sheet-2xl.png 1600w\"  alt=\"Contract Cheat Sheet\" width=\"1442\" height=\"2048\"></figure>",
+            "author": {
+                "name": "seth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-04T09:23:17-05:00",
+            "date_modified": "2021-10-04T09:23:17-05:00"
+        },
+        {
             "id": "https://laborsvoice.org/top-5-to-counter-the-lies-3.html",
             "url": "https://laborsvoice.org/top-5-to-counter-the-lies-3.html",
             "title": "Top 5, to Counter the Lies",
