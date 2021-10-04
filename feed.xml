@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Labors Voice</title>
+    <link href="https://laborsvoice.org/feed.xml" rel="self" />
+    <link href="https://laborsvoice.org" />
+    <updated>2021-10-04T03:20:05-05:00</updated>
+    <author>
+        <name>seth</name>
+    </author>
+    <id>https://laborsvoice.org</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>seth</name>
+        </author>
+        <link href="https://laborsvoice.org/test.html"/>
+        <id>https://laborsvoice.org/test.html</id>
+
+        <updated>2021-10-04T03:20:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                     test 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    test
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
